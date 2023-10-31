@@ -1,0 +1,7 @@
+.idea/
+generated/
+target/
+logs/
+*.iml
+.asciidoctor
+.images
