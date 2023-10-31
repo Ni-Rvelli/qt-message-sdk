@@ -112,3 +112,4 @@
         // 清空全局参数
         NrThirdMessageService.clearGlobalProperties();
     } 
+"# qt-message-sdk" 
